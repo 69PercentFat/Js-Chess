@@ -1,5 +1,5 @@
 
-```markdow
+
 # Js-Chess
 
 Welcome to Js-Chess, a customizable and visually appealing chess game implemented in JavaScript. This project features personalized chess pieces to provide a unique and enjoyable gaming experience.
@@ -69,4 +69,3 @@ Contributions are highly appreciated!
 This project is licensed under the [MIT License](LICENSE), allowing you to use, modify, and distribute the code for personal or commercial projects.
 
 Enjoy the game! 🚀
-```
